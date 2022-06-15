@@ -1,4 +1,4 @@
-module github.com/emicklei/go-restful
+module github.com/friedrichwilken/go-restful
 
 go 1.18
 
